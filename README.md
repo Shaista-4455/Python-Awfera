@@ -1,10 +1,6 @@
 Lecture 4: Variables and Data Types
 Author Name : Shaista Adnan
 
-Linkedin : linkedin.com/in/iamahsanalirajpoot
-Facebook : facebook.com/iamahsanalirajpoot
-GitHub : github.com/iamahsanalirajpoot
-Kaggle : kaggle.com/ahsanalirajpoot
 Variables In Python
 What Are Variables?
 A variable is a container that temporarily stores data during the execution of a program.
